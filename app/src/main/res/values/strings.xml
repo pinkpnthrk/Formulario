@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="full_name_hint">Nombre completo</string>
+    <string name="birth_date_hint">Fecha de Nacimiento</string>
+    <string name="phone_number_hint">Teléfono</string>
+    <string name="email_hint">Email</string>
+    <string name="description_hint">Descripción del contacto</string>
+    <string name="next_button">Siguiente</string>
+    <string name="full_name_label">Nombre completo: </string>
+    <string name="birth_date_label">Fecha de Nacimiento: </string>
+    <string name="phone_number_label">Teléfono: </string>
+    <string name="email_label">Email: </string>
+    <string name="description_label">Descripción: </string>
+    <string name="edit_data_button">Editar datos</string>
+    <string name="full_name">fullName</string>
+    <string name="phone_number">phoneNumber</string>
+    <string name="email">email</string>
+    <string name="description">description</string>
+    <string name="birth_date_day">birthDateDay</string>
+    <string name="birth_date_month">birthDateMonth</string>
+    <string name="birth_date_year">birthDateYear</string>
+    <string name="confirm_data">Confirmar Datos</string>
+</resources>
